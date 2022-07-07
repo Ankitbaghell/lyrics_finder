@@ -1,4 +1,4 @@
-# LyricFinder App
+# Lyrics Finder App
 
 > App that finds song lyrics using React, Context API and the Musixmatch API.
 
